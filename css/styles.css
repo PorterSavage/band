@@ -3,3 +3,17 @@
   color: red;
   background: yellow;
 }
+
+.about{
+  text-align: center;
+}
+
+.photos{
+  float: left;
+}
+
+h1{
+  text-align: center;
+  font-style: oblique;
+  color: maroon;
+}

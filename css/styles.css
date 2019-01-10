@@ -1,4 +1,7 @@
 .sidebar{
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
   float: right;
   color: red;
   background: yellow;
@@ -9,6 +12,7 @@
 }
 
 .photos{
+  padding: 80px;
   float: left;
 }
 
